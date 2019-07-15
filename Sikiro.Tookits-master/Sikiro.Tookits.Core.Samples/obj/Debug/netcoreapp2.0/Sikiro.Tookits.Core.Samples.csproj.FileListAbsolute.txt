@@ -1,0 +1,27 @@
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.deps.json
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.runtimeconfig.json
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.runtimeconfig.dev.json
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.pdb
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.pdb
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.csprojResolveAssemblyReference.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.csproj.CoreCompileInputs.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.AssemblyInfoInputs.cache
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.AssemblyInfo.cs
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.dll
+F:\工作\代码\My\Sikiro.Tookits2\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.pdb
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.dll.config
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.deps.json
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.runtimeconfig.json
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.runtimeconfig.dev.json
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.pdb
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\bin\Debug\netcoreapp2.0\Sikiro.Tookits.Core.pdb
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.csprojResolveAssemblyReference.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.csproj.CoreCompileInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.AssemblyInfoInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.AssemblyInfo.cs
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core.Samples\obj\Debug\netcoreapp2.0\Sikiro.Tookits.Core.Samples.pdb

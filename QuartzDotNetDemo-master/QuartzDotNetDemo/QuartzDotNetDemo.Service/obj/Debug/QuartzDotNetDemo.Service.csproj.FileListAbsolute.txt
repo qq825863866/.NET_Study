@@ -1,0 +1,8 @@
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\bin\Debug\QuartzDotNetDemo.Service.dll
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\bin\Debug\QuartzDotNetDemo.Service.pdb
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\bin\Debug\Newtonsoft.Json.dll
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\bin\Debug\Newtonsoft.Json.xml
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\obj\Debug\QuartzDotNetDemo.Service.csprojResolveAssemblyReference.cache
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\obj\Debug\QuartzDotNetDemo.Service.csproj.CoreCompileInputs.cache
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\obj\Debug\QuartzDotNetDemo.Service.dll
+D:\高级笔记\Timing Service\QuartzDotNetDemo-master\QuartzDotNetDemo\QuartzDotNetDemo.Service\obj\Debug\QuartzDotNetDemo.Service.pdb

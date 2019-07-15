@@ -1,0 +1,15 @@
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.deps.json
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\Sikiro.Tookits.Core.pdb
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Security.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\netstandard2.0\System.Security.xml
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.csprojResolveAssemblyReference.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.csproj.CoreCompileInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.AssemblyInfoInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.AssemblyInfo.cs
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\netstandard2.0\Sikiro.Tookits.Core.pdb

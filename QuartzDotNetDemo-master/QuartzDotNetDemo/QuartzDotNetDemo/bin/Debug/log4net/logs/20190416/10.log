@@ -1,0 +1,163 @@
+=======================================
+2019-04-16 10:25:00,428 INFO  
+Using default implementation for object serializer
+ =======================================
+2019-04-16 10:25:00,458 INFO  
+Using default implementation for ThreadExecutor
+ =======================================
+2019-04-16 10:25:00,497 INFO  
+Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+ =======================================
+2019-04-16 10:25:00,497 INFO  
+Quartz Scheduler v.2.6.1.0 created.
+ =======================================
+2019-04-16 10:25:00,500 INFO  
+RAMJobStore initialized.
+ =======================================
+2019-04-16 10:25:00,503 INFO  
+Scheduler meta-data: Quartz Scheduler (v2.6.1.0) 'QuartzDotNetDemo' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ =======================================
+2019-04-16 10:25:00,503 INFO  
+Quartz scheduler 'QuartzDotNetDemo' initialized
+ =======================================
+2019-04-16 10:25:00,503 INFO  
+Quartz scheduler version: 2.6.1.0
+ =======================================
+2019-04-16 10:25:00,504 INFO  
+JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory
+ =======================================
+2019-04-16 10:25:00,547 INFO  
+[Topshelf.Quartz] Scheduled Job: 陈珙的demo.HelloJob
+ =======================================
+2019-04-16 10:25:00,549 INFO  
+[Topshelf.Quartz] Job Schedule: Trigger 'DEFAULT.9dd134c3-2e0b-4a5c-95c2-df49d86a4d3a':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 04/16/2019 02:25:00 +00:00 - Next Fire Time (local): 2019/4/16 10:25:00 +08:00
+ =======================================
+2019-04-16 10:25:00,550 INFO  
+Scheduler QuartzDotNetDemo_$_NON_CLUSTERED started.
+ =======================================
+2019-04-16 10:25:00,551 INFO  
+[Topshelf.Quartz] Scheduler started...
+ =======================================
+2019-04-16 10:25:00,556 INFO  
+[Topshelf.Quartz] Scheduled Job: 陈珙的demo.GoodbyeJob
+ =======================================
+2019-04-16 10:25:00,556 INFO  
+[Topshelf.Quartz] Job Schedule: Trigger 'DEFAULT.5344efa8-faeb-4f9d-a2e9-28a9faf474ef':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 04/16/2019 02:25:00 +00:00 - Next Fire Time (local): 2019/4/16 10:25:00 +08:00
+ =======================================
+2019-04-16 10:25:00,556 INFO  
+Scheduler QuartzDotNetDemo_$_NON_CLUSTERED started.
+ =======================================
+2019-04-16 10:25:00,556 INFO  
+[Topshelf.Quartz] Scheduler started...
+ =======================================
+2019-04-16 10:25:00,557 INFO  
+服务已启动
+ =======================================
+2019-04-16 10:25:00,557 INFO  
+The 陈珙的demo service is now running, press Control+C to exit.
+ =======================================
+2019-04-16 10:33:59,466 INFO  
+Using default implementation for object serializer
+ =======================================
+2019-04-16 10:33:59,491 INFO  
+Using default implementation for ThreadExecutor
+ =======================================
+2019-04-16 10:33:59,554 INFO  
+Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+ =======================================
+2019-04-16 10:33:59,554 INFO  
+Quartz Scheduler v.2.6.1.0 created.
+ =======================================
+2019-04-16 10:33:59,557 INFO  
+RAMJobStore initialized.
+ =======================================
+2019-04-16 10:33:59,560 INFO  
+Scheduler meta-data: Quartz Scheduler (v2.6.1.0) 'QuartzDotNetDemo' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ =======================================
+2019-04-16 10:33:59,561 INFO  
+Quartz scheduler 'QuartzDotNetDemo' initialized
+ =======================================
+2019-04-16 10:33:59,561 INFO  
+Quartz scheduler version: 2.6.1.0
+ =======================================
+2019-04-16 10:33:59,561 INFO  
+JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory
+ =======================================
+2019-04-16 10:33:59,609 INFO  
+[Topshelf.Quartz] Scheduled Job: 陈珙的demo.HelloJob
+ =======================================
+2019-04-16 10:33:59,611 INFO  
+[Topshelf.Quartz] Job Schedule: Trigger 'DEFAULT.b221dc2d-0384-4f70-ac03-56d100de5216':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 04/16/2019 02:33:59 +00:00 - Next Fire Time (local): 2019/4/16 10:33:59 +08:00
+ =======================================
+2019-04-16 10:33:59,612 INFO  
+Scheduler QuartzDotNetDemo_$_NON_CLUSTERED started.
+ =======================================
+2019-04-16 10:33:59,613 INFO  
+[Topshelf.Quartz] Scheduler started...
+ =======================================
+2019-04-16 10:33:59,615 INFO  
+[Topshelf.Quartz] Scheduled Job: 陈珙的demo.GoodbyeJob
+ =======================================
+2019-04-16 10:33:59,615 INFO  
+[Topshelf.Quartz] Job Schedule: Trigger 'DEFAULT.8b9e26d2-8601-48fc-816c-70a262ab1037':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 04/16/2019 02:33:59 +00:00 - Next Fire Time (local): 2019/4/16 10:33:59 +08:00
+ =======================================
+2019-04-16 10:33:59,616 INFO  
+Scheduler QuartzDotNetDemo_$_NON_CLUSTERED started.
+ =======================================
+2019-04-16 10:33:59,616 INFO  
+[Topshelf.Quartz] Scheduler started...
+ =======================================
+2019-04-16 10:33:59,616 INFO  
+服务已启动
+ =======================================
+2019-04-16 10:33:59,616 INFO  
+The 陈珙的demo service is now running, press Control+C to exit.
+ =======================================
+2019-04-16 10:37:17,510 INFO  
+Using default implementation for object serializer
+ =======================================
+2019-04-16 10:37:17,540 INFO  
+Using default implementation for ThreadExecutor
+ =======================================
+2019-04-16 10:37:17,650 INFO  
+Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+ =======================================
+2019-04-16 10:37:17,650 INFO  
+Quartz Scheduler v.2.6.1.0 created.
+ =======================================
+2019-04-16 10:37:17,653 INFO  
+RAMJobStore initialized.
+ =======================================
+2019-04-16 10:37:17,656 INFO  
+Scheduler meta-data: Quartz Scheduler (v2.6.1.0) 'QuartzDotNetDemo' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ =======================================
+2019-04-16 10:37:17,657 INFO  
+Quartz scheduler 'QuartzDotNetDemo' initialized
+ =======================================
+2019-04-16 10:37:17,657 INFO  
+Quartz scheduler version: 2.6.1.0
+ =======================================
+2019-04-16 10:37:28,062 INFO  
+Scheduler QuartzDotNetDemo_$_NON_CLUSTERED started.
+ 

@@ -1,0 +1,15 @@
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\Sikiro.Tookits.Core.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\Sikiro.Tookits.Core.pdb
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\log4net.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\Mapster.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\Newtonsoft.Json.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\System.ComponentModel.DataAnnotations.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\System.Configuration.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\System.ComponentModel.DataAnnotations.xml
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\bin\Debug\net45\System.Configuration.xml
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.csprojResolveAssemblyReference.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.csproj.CoreCompileInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.AssemblyInfoInputs.cache
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.AssemblyInfo.cs
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.dll
+D:\高级笔记\Tool Library\Sikiro.Tookits-master\Sikiro.Tookits.Core\obj\Debug\net45\Sikiro.Tookits.Core.pdb
